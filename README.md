@@ -1,4 +1,4 @@
-# 🌀 Othman Benbrahim
+# 🌀 Othman Ben Brahim
 
 **Chercheur indépendant · Architecte de l'écosystème IRIS∞**
 📍 Nîmes, France
