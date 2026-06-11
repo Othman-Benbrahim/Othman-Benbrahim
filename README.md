@@ -22,7 +22,7 @@ Le principe fondateur : ces deux registres fonctionnent comme des **hémisphère
 
 ## 🔮 Projets phares
 
-### Fractales du Destin(https://github.com/Othman-Benbrahim/Fractales-du-destin)
+### [Fractales du Destin](https://github.com/Othman-Benbrahim/Fractales-du-destin)
 Oracle algorithmique de **84 cartes / 9 familles** — système d'intuition structurée et de prédiction acausale. La v2 introduit de nouvelles familles de cartes, un opérateur de diathèse et un **protocole de validation empirique** : un oracle qui accepte d'être mesuré.
 
 ### NEXUS-ARCHÊ
