@@ -44,7 +44,7 @@ Application Flask locale : éditeur Markdown, graphe de connaissances, architect
 - 🔍 **OSINT & renseignement prospectif** — veille stratégique, cartographie d'acteurs, scénarios
 - 📡 **Détection de signaux faibles** — algorithmique et symbolique
 - 🃏 **Design de cartes symbolico-algorithmiques** — quand l'arcane rencontre l'invariant mathématique
-- 🌳 **Logique de bifurcation** — dans la lignée de *L'Arbre des Possibles* de Bernard Werber
+- 🌳 **Logique de bifurcation** — dans la lignée de [*L'Arbre des Possibles*](http://www.arbredespossibles.com/) de Bernard WERBER
 - 🧘 **Outils d'accompagnement** — Miroir Intégral (IFS, ACT, Kegan, McAdams), SEUIL, CAP
 
 ---
@@ -65,7 +65,8 @@ Ou par courriel, à Othman.benbrahim@ikmail.com
 
 ---
 
-<img width="698" height="578" alt="canvas" src="https://github.com/user-attachments/assets/83e747e3-9fb5-4f00-a382-283d0a9ce954" />
+<img width="500" height="250" alt="e4d06e4f-eba7-4c86-95b0-e16f744091a4" src="https://github.com/user-attachments/assets/38fd021d-a06a-4976-b248-1b1a1dc7e90f" />
+
 
 
 « Le futur n'est pas un point, c'est un arbre. »
