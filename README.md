@@ -14,7 +14,7 @@ Je développe **IRIS∞**, un écosystème d'une vingtaine de skills et d'outils
 | Registre | Logique | Outils représentatifs |
 |---|---|---|
 | 🜁 **Symbolique / archétypal** | Résonance, compression, lecture acausale | Fractales du Destin, STÈLE, LÉR, Oracle Synchromantique |
-| 🜂 **Rationnel / prédictif** | Falsifiabilité, calibration, mise à jour bayésienne | Prediction Engine, OSINT-Intel, Zététique (filtres de Broch) |
+| 🜂 **Rationnel / prédictif** | Falsifiabilité, calibration, mise à jour bayésienne | Prediction Engine, Zététique (filtres de Broch) |
 
 Le principe fondateur : ces deux registres fonctionnent comme des **hémisphères reliés**, jamais fusionnés, toujours en dialogue. Chaque lecture conserve sa traçabilité épistémologique.
 
