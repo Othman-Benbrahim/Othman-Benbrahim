@@ -25,10 +25,10 @@ Le principe fondateur : ces deux registres fonctionnent comme des **hémisphère
 ### [Fractales du Destin](https://github.com/Othman-Benbrahim/Fractales-du-destin)
 Oracle algorithmique de **84 cartes / 9 familles** — système d'intuition structurée et de prédiction acausale. La v2 introduit de nouvelles familles de cartes, un opérateur de diathèse et un **protocole de validation empirique** : un oracle qui accepte d'être mesuré.
 
-### NEXUS-ARCHÊ
+### [NEXUS-ARCHÊ](https://github.com/Othman-Benbrahim/NEXUS-ARCHE)
 Système de lecture résonante à double registre : **16 cartes structurelles** ancrées dans les invariants partagés entre les mathématiques des systèmes dynamiques et les universaux comportementaux de Donald Brown. Matrices de confusion et fichiers de calibration inclus.
 
-### KAIROS
+### [KAIROS](https://github.com/Othman-Benbrahim/KAIROS)
 Modèle de **résolution d'histoires** orchestrant NEXUS-ARCHÊ, CRC-Récursif, LÉR-Narratif et Miroir Intégral. Trois états de sortie : résolution fermée (réversible), bifurcation ouverte, suspension.
 
 ### Prediction Engine
