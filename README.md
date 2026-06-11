@@ -31,10 +31,10 @@ Système de lecture résonante à double registre : **16 cartes structurelles** 
 ### [KAIROS](https://github.com/Othman-Benbrahim/KAIROS)
 Modèle de **résolution d'histoires** orchestrant NEXUS-ARCHÊ, CRC-Récursif, LÉR-Narratif et Miroir Intégral. Trois états de sortie : résolution fermée (réversible), bifurcation ouverte, suspension.
 
-### Prediction Engine
+### [Prediction Engine](https://github.com/Othman-Benbrahim/osint-intel)
 Cluster prédictif unifiant **Superforecasting** (protocole Tetlock), **Bayesian Updater** et **Calibration Engine** (Brier score, log loss). La discipline du Good Judgment Project, appliquée à un écosystème symbolique.
 
-### Second Brain
+### [Second Brain](https://github.com/Othman-Benbrahim/Second-Brain)
 Application Flask locale : éditeur Markdown, graphe de connaissances, architecture de plugins, et un **moteur de détection de signaux faibles** (`signal_engine.py`) écrit en pur stdlib.
 
 ---
