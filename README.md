@@ -65,9 +65,9 @@ Ou par courriel, à Othman.benbrahim@ikmail.com
 
 ---
 
-<img width="600" height="550" alt="e4d06e4f-eba7-4c86-95b0-e16f744091a4" src="https://github.com/user-attachments/assets/38fd021d-a06a-4976-b248-1b1a1dc7e90f" />
+<img width="600" height="450" alt="e4d06e4f-eba7-4c86-95b0-e16f744091a4" src="https://github.com/user-attachments/assets/38fd021d-a06a-4976-b248-1b1a1dc7e90f" />
 
 
 
-« Le futur n'est pas un point, c'est un arbre. »
+« *Le futur n'est pas un point, c'est un arbre*. »
 
