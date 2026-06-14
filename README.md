@@ -31,7 +31,7 @@ Système de lecture résonante à double registre : **16 cartes structurelles** 
 ### [KAIROS](https://github.com/Othman-Benbrahim/KAIROS)
 Modèle de **résolution d'histoires** orchestrant NEXUS-ARCHÊ, CRC-Récursif, LÉR-Narratif et Miroir Intégral. Trois états de sortie : résolution fermée (réversible), bifurcation ouverte, suspension.
 
-### [Prediction Engine](https://github.com/Othman-Benbrahim/osint-intel)
+### [Osint-intel](https://github.com/Othman-Benbrahim/osint-intel)
 Cluster prédictif unifiant **Superforecasting** (protocole Tetlock), **Bayesian Updater** et **Calibration Engine** (Brier score, log loss). La discipline du Good Judgment Project, appliquée à un écosystème symbolique.
 
 ### [Second Brain](https://github.com/Othman-Benbrahim/Second-Brain)
