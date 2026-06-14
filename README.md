@@ -61,7 +61,7 @@ Mes outils sont conçus pour des **conditions non optimales** : intentions d'usa
 
 Les issues et discussions sont ouvertes sur chaque dépôt.
 Si un outil vous intrigue, commencez par son `SKILL.md` — chaque skill est documenté comme un organisme autonome.
-Ou par courriel, à Othman.benbrahim@ikmail.com
+Ou par courriel, à othman.benbrahim@ikmail.com
 
 ---
 
